@@ -1,0 +1,31 @@
+{
+  "name": "auto-import-pkg-loader",
+  "version": "0.1.1",
+  "description": "Auto import loader for Webpack",
+  "main": "index.js",
+  "scripts": {},
+  "authors": "Tournier Guillaume <tournier.guillaume@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gtournie/auto-import-pkg-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gtournie/auto-import-pkg-loader/issues"
+  },
+  "keywords": [
+    "webpack",
+    "loaders",
+    "import",
+    "auto",
+    "styles",
+    "css",
+    "sass",
+    "scss",
+    "lib",
+    "config"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
